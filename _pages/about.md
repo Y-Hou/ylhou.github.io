@@ -27,4 +27,4 @@ I am broadly interersted in both the theoretical limits and emprical application
 
 News
 ===
-- [2025-12-22] Yunlong's Homepage is finally on line!
+- [2025-12-22] Yunlong’s homepage is finally online! 🎉 Hello, world!

@@ -91,3 +91,62 @@
   max-width: 220px;   /* adjust */
   height: auto;
 }
+
+// /* Warm background for the whole site */
+// body {
+//   background-color: #FAF9F7;
+// }
+
+// /* Top navigation bar (masthead) */
+// .masthead,
+// .masthead__inner-wrap,
+// .greedy-nav {
+//   background-color: #FAF9F7 !important;
+// }
+
+// /* Footer area */
+// .page__footer {
+//   background-color: #FAF9F7 !important;
+// }
+
+// /* The horizontal divider line above footer / sections */
+// .page__footer,
+// .page__footer::before,
+// hr,
+// .page__content hr {
+//   border-color: rgba(0, 0, 0, 0.12);
+// }
+
+/* Warm background everywhere (including the nav inner container) */
+:root {
+  --warm-bg: #FAF9F7;
+}
+
+body,
+html {
+  background: var(--warm-bg);
+}
+
+/* Masthead + ALL nested nav wrappers */
+.masthead,
+.masthead__inner-wrap,
+.masthead__inner-wrap * ,
+.greedy-nav,
+.greedy-nav * ,
+.greedy-nav__wrapper,
+.greedy-nav__wrapper * ,
+.nav__list,
+.nav__list * {
+  background-color: var(--warm-bg) !important;
+  background: var(--warm-bg) !important;
+}
+
+
+/* Hide theme (day/night) toggle - cover common Minimal Mistakes variants */
+.theme-toggle,
+#theme-toggle,
+.dark-mode-toggle,
+button.theme-toggle,
+a.theme-toggle {
+  display: none !important;
+}
