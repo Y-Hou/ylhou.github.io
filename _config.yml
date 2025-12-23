@@ -29,7 +29,7 @@ author:
   bio              : "PhD Student"
   location         : "Singapore"
   employer         : "National University of Singapore"
-  uri              : "https://y-hou.github.io"
+  # uri              : "https://y-hou.github.io"
   email            : "yhou@u.nus.edu" 
 
   # Academic websites
