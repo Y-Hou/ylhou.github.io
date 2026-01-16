@@ -1,6 +1,6 @@
 ---
 title: "Almost Optimal Variance-Constrained Best Arm Identification"
-authors: "Yunlong Hou, Vincent Y. F. Tan and Zixin Zhong"
+authors: "<strong>Yunlong Hou</strong>, Vincent Y. F. Tan and Zixin Zhong"
 venue: "IEEE Transactions on Information Theory (IEEE TIT), Volume 69, Issue 4, April 2023, doi: 10.1109/TIT.2022.3222231."
 date: 2023-04-01
 pub_section: journals

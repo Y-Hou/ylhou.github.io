@@ -1,6 +1,6 @@
 ---
 title: "Almost Minimax Optimal Best Arm Identification in Piecewise Stationary Linear Bandits"
-authors: "Yunlong Hou, Vincent Y. F. Tan and Zixin Zhong"
+authors: "<strong>Yunlong Hou</strong>, Vincent Y. F. Tan and Zixin Zhong"
 venue: "Conference on Neural Information Processing Systems (NeurIPS), 2024"
 date: 2024-07-01
 pub_section: conferences

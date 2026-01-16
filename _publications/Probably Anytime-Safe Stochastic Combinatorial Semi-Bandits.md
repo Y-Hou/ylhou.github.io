@@ -1,6 +1,6 @@
 ---
 title: "Probably Anytime-Safe Stochastic Combinatorial Semi-Bandits"
-authors: "Yunlong Hou, Vincent Y. F. Tan and Zixin Zhong"
+authors: "<strong>Yunlong Hou</strong>, Vincent Y. F. Tan and Zixin Zhong"
 venue: "International Conference on Machine Learning (ICML), 2023"
 date: 2023-07-01
 pub_section: conferences
